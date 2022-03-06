@@ -1,6 +1,6 @@
 # Simple_Programs
 
-Simple programs in Python
+Simple programs in Python.
 
 All of these are up for public disposal, and can be modified or redistributed for educational purposes.
 
